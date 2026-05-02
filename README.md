@@ -1,6 +1,6 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=VaniDani/MSFPractica3)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=VaniDani/MSFPractica4)
 
-# Práctica 3: Sistema musculoesquelético
+# Práctica 4: Sistema endocrino
 
 ## Información de la estudiante
 
@@ -24,7 +24,7 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 
 ## Objetivos
 
-1\. Calcular la función de transferencia.
+1. Calcular la función de transferencia.
 2. Determinar el modelo de ecuaciones integro-diferenciales.
 3. Calcular el error en estado estacionario y la estabilidad en lazo abierto.
 4. Emular y simular la respuesta del circuito en Simulink/Simscape a la señal "Uniform Random Number" con la siguiente configuración: min = -0.2 V; max = 1 V; seed = 106; Sample time = 0.5.
@@ -39,14 +39,13 @@ Palabras clave: Sistema Endocrino; Análisis matemático; Circuito eléctrico de
 
 ## Lista de archivos incluidos en el repositorio
 
-1\. Cuaderno computacional de MATLAB \[.mlx].
+1. Cuaderno computacional de MATLAB \[.mlx].
 2. Modelo de Simulink \[.slx].
 3. Archivos de Spyder \[.py].
 4. Imagen con los parámetros del controlador.
 5. Imágenes de las simulaciones \[.pdf].
 6. Evidencia del análisis matemático: función de transferencia, modelo de ecuaciones integro-diferenciales, error en estado estacionario y estabilidad en lazo abierto.
-
-7\. Modelo fisiológico en Biorender o BioArt.
+7. Modelo fisiológico en Biorender o BioArt.
 
 ## Referencias
 
